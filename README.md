@@ -2,18 +2,18 @@
 Linux system installation and updates. Administration basics.
 
 ## Task parts
-- Part 1. Установка ОС
-- Part 2. Создание пользователя
-- Part 3. Настройка сети ОС
-- Part 4. Обновление ОС
-- Part 5. Использование команды sudo
-- Part 6. Установка и настройка службы времени
-- Part 7. Установка и использование текстовых редакторов
-- Part 8. Установка и базовая настройка сервиса SSHD
-- Part 9. Установка и использование утилит top, htop
-- Part 10. Использование утилиты fdisk
-- Part 11. Использование утилиты df
-- Part 12. Использование утилиты du
-- Part 13. Установка и использование утилиты ncdu
-- Part 14. Работа с системными журналами
-- Part 15. Использование планировщика заданий CRON
+- Part 1. Installation of the OS
+- Part 2. Creating a user
+- Part 3. Setting up the OS network
+- Part 4. OS Update
+- Part 5. Using the sudo command
+- Part 6. Installing and configuring the time service
+- Part 7. Installing and using text editors
+- Part 8. Installing and basic setup of the SSHD service
+- Part 9. Installing and using the top, htop utilities
+- Part 10. Using the fdisk utility
+- Part 11. Using the df utility
+- Part 12. Using the du utility
+- Part 13. Installing and using the ncdu utility
+- Part 14. Working with system logs
+- Part 15. Using the CRON job scheduler
