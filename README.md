@@ -1,7 +1,7 @@
 # D01_Linux
 Linux system installation and updates. Administration basics.
 
-## Parts of the task
+## Task parts
 - Part 1. Установка ОС
 - Part 2. Создание пользователя
 - Part 3. Настройка сети ОС
