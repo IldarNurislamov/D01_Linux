@@ -2,9 +2,9 @@
 Linux system installation and updates. Administration basics.
 
 ## Task parts
- Part 1. Установка ОС
- Part 2. Создание пользователя
- Part 3. Настройка сети ОС
+- Part 1. Установка ОС
+- Part 2. Создание пользователя
+- Part 3. Настройка сети ОС
 - Part 4. Обновление ОС
 - Part 5. Использование команды sudo
 - Part 6. Установка и настройка службы времени
